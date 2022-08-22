@@ -1,0 +1,24 @@
+{
+  "list": [
+    {
+      "id": "1",
+      "text": "Arrumar o projeto"
+    },
+    {
+      "id": "2",
+      "text": "Arrumar o quarto"
+    },
+    {
+      "id": "3",
+      "text": "Arrumar a casa"
+    },
+    {
+      "id": "4",
+      "text": "Dar banho do cachorro"
+    },
+    {
+      "id": "5",
+      "text": "Ir ao cinema"
+    }
+  ]
+}
