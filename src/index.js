@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'; // teste
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import { ToDoList } from './components/ToDoList/ToDoList';
